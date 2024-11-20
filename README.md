@@ -1,33 +1,33 @@
-# SummitSphere
+# EventEdge
 
 ## Description
-**SummitSphere** is a comprehensive SaaS platform tailored for organizing and managing conferences, events, and symposiums. Designed to empower event planners, SummitSphere streamlines every step of the process, from scheduling sessions to handling attendee registrations and speaker profiles.
+**EventEdge** is a modern SaaS platform crafted for event organizers who want to streamline the planning and execution of conferences, symposiums, and workshops. With its user-friendly tools and secure payment integration, EventEdge ensures a seamless experience for both organizers and attendees.
 
-Whether it’s a small workshop or an international conference, SummitSphere offers intuitive tools and a seamless experience to make your event a success.
+Whether you’re managing a small seminar or a large-scale conference, EventEdge offers all the features you need to deliver a successful event.
 
 ---
 
 ## Key Features
 
-- **Dynamic Event Scheduling**  
-  Create and update event agendas with ease, ensuring attendees are always informed.
+- **Event Planning Made Easy**  
+  Intuitive tools to create detailed schedules, manage sessions, and update event details in real time.
 
-- **Speaker Profiles**  
-  Showcase speaker details, topics, and schedules in an elegant and organized way.
+- **Speaker Management**  
+  Centralized platform for adding, editing, and showcasing speaker profiles and session details.
 
-- **Attendee Management**  
-  Simplified registration process with attendee tracking and email notifications.
+- **Attendee Registration**  
+  Simplified attendee onboarding with automated email confirmations and tracking.
 
-- **Stripe Integration for Payments**  
-  Securely process payments for tickets or registrations using Stripe.
+- **Payment Processing with Stripe**  
+  Accept payments effortlessly through secure Stripe integration for ticketing or registration fees.
 
-- **Organizer Control Panel**  
-  Real-time dashboard to manage attendees, monitor performance, and make adjustments on the fly.
+- **Organizer Dashboard**  
+  Real-time insights into attendee data, registration metrics, and event performance.
 
-- **Customizable Branding**  
-  Tailor the platform’s appearance to match your event’s branding and theme.
+- **Scalable Solution**  
+  Built to handle events of all sizes, ensuring smooth operation even during peak usage.
 
 ---
 
-## Why Choose SummitSphere?
-SummitSphere is your all-in-one solution to deliver professional, memorable, and well-organized events with ease.
+## Why Choose EventEdge?
+EventEdge combines cutting-edge technology with sleek design, offering an all-in-one solution to manage every aspect of your event while saving time and effort.
